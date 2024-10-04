@@ -46,6 +46,9 @@ We are leveraging data and imagery from NASA's missions and citizen science proj
 
 The data collected during the May 2024 solar storms will aid in improving future **space weather forecasting** and **satellite protection measures**. We also explore possible solutions to minimize the impact of geomagnetic storms on critical infrastructure, such as satellite shielding and transformer upgrades in power grids.
 
+## Music Credits- Arhamix
+
+
 ---
 
 Stay tuned as we continue to build out this repository with more data visualizations, research, and interactive features related to the May 2024 solar storms!
