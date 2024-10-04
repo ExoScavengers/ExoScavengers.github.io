@@ -1,5 +1,6 @@
 # ExoScavengers.github.io
 ## Our Main Website : https://gamesuseonlyok.wixsite.com/stellarsplendor
+## Our Research Information : https://docs.google.com/document/d/1J2LbgtV5rhmif-W81sO2YxLz1MdAAwQcLHCOkEs65ys/edit
 # May 2024 Solar Storms Project
 
 Welcome to the **May 2024 Solar Storms** project! This repository explores the significant solar activity during May 2024, which had widespread effects on Earth and the surrounding space environment. Using real data from NASA missions and citizen science contributions, we analyze the solar storm's impacts on communication systems, satellites, power grids, and more.
